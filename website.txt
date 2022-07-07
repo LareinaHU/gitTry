@@ -1,1 +1,3 @@
 Now this is a truly status for the branch rebase1.
+
+Now I am trying to do this again to make sure I am truly understand how to use the git merge and git rbase. 
