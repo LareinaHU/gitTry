@@ -1,2 +1,4 @@
 This doc is for learning the rebase command.
 This time I am gona write something for the master branch.
+
+Now this is the third time to change the code.
