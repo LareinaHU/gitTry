@@ -8,4 +8,8 @@ This is on master to do some modify.
 
 Now this is a truly status for the branch rebase1.
 
+
 I am backing to change this branch again.
+
+Now I am trying to do this again to make sure I am truly understand how to use the git merge and git rbase. 
+
